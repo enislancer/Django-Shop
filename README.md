@@ -98,30 +98,9 @@ start to play arround with, rename, and modify them to reflect the properties of
 This is the easiest way to get a shop up and running out of the box with the flexibility of a
 website that you could have built from scratch.
 
-If you want to start with a fresh demo, please use the prepared
-[Cookiecutter template for django-SHOP](https://github.com/awesto/cookiecutter-django-shop)
-and follow the instructions. 
-
-To get a first impression of the upcoming release 1.1, please use this
-[Cookiecutter template for django-SHOP version 1.1](https://github.com/awesto/cookiecutter-django-shop/tree/releases/1.1)
-
-
 ## Audience of django-SHOP users
 
 Specifically, we aim at providing a clean, modular and Pythonic/Djangonic implementation of an
 e-commerce framework, that a moderately experienced Django developer should be able to pick up
 and run easily. Pure Django models are used to describe each product type, and so the Django admin
 can be used to build a minimalistic editor for each of them.
-
-
-## Consultancy
-
-We provide full consultancy support and are available for building complete e-commerce systems based
-on **django-SHOP**. Please contact office@awesto.com for further questions.
-
-
-## Documentation
-
-Read the full documentation on Read-the-docs:
-
-[https://django-shop.readthedocs.io/en/latest/](https://django-shop.readthedocs.io/en/latest/)
