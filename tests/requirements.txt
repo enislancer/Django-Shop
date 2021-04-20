@@ -43,7 +43,7 @@ pathlib2==2.3.5
 phonenumbers==8.12.3
 pillow
 pluggy==0.13.1
-py==1.8.0
+py==1.10.0
 pyparsing==2.4.6
 pytest==5.3.1
 pytest-django==3.7.0
