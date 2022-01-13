@@ -7,7 +7,7 @@ django-allauth==0.40.0
 django-angular==2.3
 django-appconf==1.0.3
 django-classy-tags==1.0.0
-django-cms==3.7.2
+django-cms==3.7.4
 django-entangled==0.3
 django-filer==1.7.1
 django-formtools==2.2
